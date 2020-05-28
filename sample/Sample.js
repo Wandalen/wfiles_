@@ -1,5 +1,5 @@
 
-let _ = require( 'wfiles_' );
+let _ = require( 'wfiles' );
 
 /**/
 

@@ -2,7 +2,7 @@
 
 about :
 
-  name : 'wfiles_'
+  name : 'wfiles'
   description : '___'
   version : '0.4.0'
   enabled : 1
@@ -17,18 +17,18 @@ about :
   author : 'Kostiantyn Wandalen <wanalen@01.school>'
   contributors :
   - 'Kostiantyn Wandalen <wanalen@01.school>'
-  npm.name : 'wfiles_'
+  npm.name : 'wfiles'
   npm.scripts :
     test : 'wtest .run proto/**'
     docgen : 'wdocgen .build proto'
 
 path :
 
-  repository : git+https:///github.com/Wandalen/wfiles_.git
+  repository : git+https:///github.com/Wandalen/wfiles.git
   origins :
-   - git+https:///github.com/Wandalen/wfiles_.git
-   - npm:///wfiles_
-  bugtracker : https:///github.com/Wandalen/wfiles_/issues
+   - git+https:///github.com/Wandalen/wfiles.git
+   - npm:///wfiles
+  bugtracker : https:///github.com/Wandalen/wfiles/issues
 
 step :
 
