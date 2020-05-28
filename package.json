@@ -12,7 +12,7 @@
   {
     "url" : "https://github.com/Wandalen/wfiles_/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "wfiles_" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "wfiles_" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
